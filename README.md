@@ -1,4 +1,4 @@
-# Hangman 
+# 🐍 Hangman
 Hangman Game using Python
 
 Hangman is a guessing game for two or more players. 
